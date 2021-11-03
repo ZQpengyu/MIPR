@@ -21,15 +21,13 @@ BQ: "The BQ Corpus: A Large-scale Domain-specific Chinese Corpus For Sentence Se
 LCQMC: "LCQMC: A Large-scale Chinese Question Matching Corpus", https://aclanthology.org/C18-1166/.
 
 ## 2.Data Preprocess
-\# BQ dataset  
-    python BQ/newdata.py     
-\# LCQMC dataset  
-    python LCQMC/newdata.py    
+python BQ/newdata.py     
+
+python LCQMC/newdata.py    
 ## 3.Train
-\# BQ dataset    
-    python BQ/train.py    
-\# LCQMC dataset  
-    python LCQMC/train.py    
+python BQ/train.py    
+ 
+python LCQMC/train.py    
 
 
 
