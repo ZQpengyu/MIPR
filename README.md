@@ -1,5 +1,5 @@
 # MIPR
-Multi-granularity Interaction Model Based on Pinyins and Radicals for Chinese Semantic Matching
+Implementation of our paper "Multi-granularity Interaction Model Based on Pinyins and Radicals for Chinese Semantic Matching" which is accepted by WWWJ.
 
 The models trained by us can be downloaded from Baidu Netdisk:   
 https://pan.baidu.com/s/1cmYDEJo67jRUrXtMz9uxfQ password:ls5s
